@@ -1,0 +1,60 @@
+.DS_Store
+*.log
+
+build/
+bin
+gen
+*.swp
+out
+workspace.xml
+*.bak
+
+## eclipse project
+.settings
+.classpath
+.project
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.class
+
+## IntelliJ Proejct
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+## Gradle
+.gradle
+
+## Android Studio
+local.properties
+.gaeny
+
+## Generated Open Source License text file
+couple/src/main/assets/license_generated.txt
+
+## maven output
+/target
+*/target
+/reports
+*/reports
+
+## eclipse project
+.settings
+.classpath
+.project
+
+bin/
+logs/
+
+## gradle output
+/build
+.gradle
+classes/
+**/src/generated
